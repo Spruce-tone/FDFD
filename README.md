@@ -1,5 +1,5 @@
 # FDFD
-Finite-difference frequency-domain method python tutorial. The FDFD method refers to the Finite-Difference Frequency-Domain method, which is a numerical technique used in electromagnetics and optics to solve partial differential equations (PDEs) that describe the behavior of electromagnetic waves in a given system. It is a widely used method for simulations of various electromagnetic problems.
+This repository is intended for translating programming code from MATLAB to Python for the textbook `Electromagnetic and Photonic Simulation for the Beginner: Finite-Difference Frequency-Domain in MATLAB`. The FDFD method refers to the Finite-Difference Frequency-Domain method, which is a numerical technique used in electromagnetics and optics to solve partial differential equations (PDEs) that describe the behavior of electromagnetic waves in a given system. It is a widely used method for simulations of various electromagnetic problems.
 
 ![E_mode](./figures/E_mode.png)  
 
